@@ -18,14 +18,17 @@
             {{- if and $item.asset $item.asset.url }}
               <a href="{{ $item.asset.url | relLangURL }}" class="col justify-content-between d-flex flex-column header
                 {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "") -}}
-              ">
+              " style="flex: 0 1 300px;">
             {{- else }}
-              <div class="col justify-content-between d-flex flex-column header">
+              <div class="col justify-content-between d-flex flex-column header" style="flex: 0 1 300px;">
             {{- end }}
-              <div class="row image justify-content-center align-items-center">
+              <div class="row image justify-content-center align-items-center align-content-start">
                 {{- with $item.asset -}}
                   {{- if .image }}
-                    <img src="{{ partial "helpers/image.html" (dict "root" $self "this" $this "asset" . "resize" "300x110") }}" class="p-2 w-75 mb-2" alt="{{ .text | default $item.title }}">
+                    {{- $location := (printf "%s/%s" $self.file_path .image) -}}
+                    {{- $imageResource := $self.page.Resources.GetMatch (strings.TrimPrefix $self.page.File.Dir $location) -}}
+                    {{- $supporterImg := $imageResource.Resize "x200" -}}
+                    <img src="{{ $supporterImg.RelPermalink }}" class="p-2 mb-2" alt="{{ .text | default $item.title }}">
                   {{- else if .icon }}
                     <span class="fa-stack fa-3x m-2" title="{{ .text | default $item.title }}">
                       <i class="fas fa-circle fa-stack-2x
