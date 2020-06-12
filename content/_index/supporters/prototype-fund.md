@@ -1,19 +1,10 @@
 +++
-title = ""
+title = "Prototype Fund"
 weight = 10
 
 [asset]
   image = "PrototypeFund-P-Logo.png"
-
-[[icons]]
-icon = "fas fa-globe-europe"
-url = "https://prototypefund.de/"
-
-[[icons]]
-icon = "fab fa-twitter"
-url = "https://twitter.com/prototypefund/"
-
-[[icons]]
-icon = "fab fa-mastodon"
-url = "https://mastodon.social/@PrototypeFund"
+  url = "https://prototypefund.de/"
 +++
+
+Von März bis August 2020 sind wir Teil der 7.&nbsp;Runde des Prototype Fund.

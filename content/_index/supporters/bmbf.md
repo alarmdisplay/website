@@ -1,15 +1,10 @@
 +++
-title = ""
+title = "Bundesministerium für Bildung&nbsp;und&nbsp;Forschung"
 weight = 30
 
 [asset]
   image = "BMBF_gefoerdert.jpg"
-
-[[icons]]
-icon = "fas fa-globe-europe"
-url = "https://www.bmbf.de/"
-
-[[icons]]
-icon = "fab fa-twitter"
-url = "https://twitter.com/BMBF_Bund"
+  url = "https://www.bmbf.de/"
 +++
+
+Die Fördermittel werden durch das BMBF unter dem Förderkennzeichen 01|S19S30 bereitgestellt.
