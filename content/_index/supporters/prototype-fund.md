@@ -3,7 +3,7 @@ title = "Prototype Fund"
 weight = 10
 
 [asset]
-  image = "PrototypeFund-P-Logo.png"
+  image = "PrototypeFund-P-Logo.svg"
   url = "https://prototypefund.de/"
 +++
 
