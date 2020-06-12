@@ -11,5 +11,3 @@ menu_title = "Mehr Infos"
 #  image = "logo.svg"
 #  text = "Logo Subtext"
 +++
-
-#### Förderung

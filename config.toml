@@ -60,30 +60,25 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Home"
   weight = 10
 
-[[menu.main]]
-  url = "https://docs.alarmdisplay.org"
-  name = "Docs"
-  weight = 20
-
 [[menu.footer]]
-  url = "https://syna.okkur.org/demo"
-  name = "Getting Started"
+  url = "https://docs.alarmdisplay.org"
+  name = "Dokumentation"
   weight = 10
 
 [[menu.footer]]
-  url = "https://about.okkur.org/"
-  name = "About Okkur Labs"
+  url = "/beta"
+  name = "Beta-Test"
   weight = 20
 
 [[menu.footer_social]]
   weight = 30
-  name = "github"
+  name = "GitHub"
   url = "https://github.com/alarmdisplay"
   pre = "fab fa-github fa-stack-2x"
 
 [[menu.footer_social]]
   weight = 40
-  name = "twitter"
+  name = "Twitter"
   url = "https://twitter.com/alarm_display"
   pre = "fab fa-twitter"
 
