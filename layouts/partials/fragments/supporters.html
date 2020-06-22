@@ -1,3 +1,23 @@
+<!--
+Originally published as items fragment at https://github.com/okkur/syna/blob/master/layouts/partials/fragments/items.html under the following license:
+
+Copyright 2017 - The Syna Theme Authors
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+===========
+
+Modifications by Andreas Brain, June 2020:
+- changed name to supporters fragment
+- image asset does not get cropped, but resized (also works for SVG files)
+- only images in the same folder as the .md file are taken into account
+
+-->
+
 {{- $items := partial "helpers/subitems.html" . -}}
 
 {{- $self := . -}}
