@@ -61,6 +61,11 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.footer]]
+  url = "https://community.alarmdisplay.org"
+  name = "Community-Forum"
+  weight = 5
+
+[[menu.footer]]
   url = "https://docs.alarmdisplay.org"
   name = "Dokumentation"
   weight = 10
@@ -74,7 +79,7 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
   name = "GitHub"
   url = "https://github.com/alarmdisplay"
-  pre = "fab fa-github fa-stack-2x"
+  pre = "fab fa-github"
 
 [[menu.footer_social]]
   weight = 40
@@ -82,3 +87,8 @@ lastmod = ["lastmod", ":git", "date"]
   url = "https://twitter.com/alarm_display"
   pre = "fab fa-twitter"
 
+[[menu.footer_social]]
+  weight = 50
+  name = "Mastodon"
+  url = "https://chaos.social/@alarmdisplay"
+  pre = "fab fa-mastodon"
