@@ -10,7 +10,12 @@ align = "right"
 
 [[buttons]]
   text = "Unser Plan"
-  url = "/features"
+  url = "/unser-plan/"
+  color = "secondary"
+
+[[buttons]]
+  text = "Zum Community-Forum"
+  url = "https://community.alarmdisplay.org/"
   color = "secondary"
 
 [[buttons]]
@@ -19,5 +24,5 @@ align = "right"
   color = "primary"
 +++
 
-Noch nicht ganz, dieses Projekt befindet sich gerade im Aufbau und wird erst im Sommer 2020 einsatzbereit sein.
-Wir sind aber immer auf der Suche nach Beta-Testern oder Menschen mit Erfahrung aus der Praxis.
+Noch nicht ganz, dieses Projekt befindet sich gerade im Aufbau und wird erst im Laufe des Jahres 2020 einsatzbereit sein.
+Wir sind aber immer auf der Suche nach Menschen, die sich einbringen wollen.
