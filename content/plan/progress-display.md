@@ -13,7 +13,7 @@ title = "Projektfortschritt: Alarmanzeige"
 - Alarmansicht
   - Titel, Stichwort, Ortsangabe, Freitext der Leitstelle, verstrichene Zeit
   - Automatische R&uuml;ckkehr in den Ruhemodus nach vorgegebener Zeit
-- Verwaltungsoberfl&amp;auml;che zur Konfiguration der Displays und Verwaltung der Inhalte
+- Verwaltungsoberfl&auml;che zur Konfiguration der Displays und Verwaltung der Inhalte
 - REST-API
 
 ### Geplant
@@ -21,7 +21,7 @@ title = "Projektfortschritt: Alarmanzeige"
   - Termine
 - Alarmansicht
   - Karte vom Zielort
-  - Anzeige von Hydranten bei Brandeins&amp;auml;tzen
+  - Anzeige von Hydranten bei Brandeins&auml;tzen
   - Alarmierte Fahrzeuge/Einheiten
 - Authentifizierung f&uuml;r REST-API
 
