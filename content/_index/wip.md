@@ -9,20 +9,15 @@ align = "right"
   icon = "fas fa-tools"
 
 [[buttons]]
-  text = "Unser Plan"
-  url = "/unser-plan/"
-  color = "secondary"
-
-[[buttons]]
   text = "Zum Community-Forum"
   url = "https://community.alarmdisplay.org/"
   color = "secondary"
 
 [[buttons]]
-  text = "Zum Beta-Test"
-  url = "/beta"
+  text = "Unser Plan"
+  url = "/unser-plan/"
   color = "primary"
 +++
 
-Noch nicht ganz, dieses Projekt befindet sich gerade im Aufbau und wird erst im Laufe des Jahres 2020 einsatzbereit sein.
-Wir sind aber immer auf der Suche nach Menschen, die sich einbringen wollen.
+Noch nicht ganz. Dieses Projekt befindet sich gerade im Aufbau und wird erst im Laufe des Jahres 2020 einsatzbereit sein.
+Wir sind aber immer auf der Suche nach Menschen, die sich einbringen wollen und schon mal vorab testen.
