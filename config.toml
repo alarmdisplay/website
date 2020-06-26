@@ -20,7 +20,7 @@ date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
 
 [params]
-  name = "Projekt Alarmdisplay"
+  name = "Andreas Brain"
   description = "Informationssystem für Hilfsorganisationen"
 
   [params.style]
