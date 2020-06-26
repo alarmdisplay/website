@@ -70,11 +70,6 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Dokumentation"
   weight = 10
 
-[[menu.footer]]
-  url = "/beta"
-  name = "Beta-Test"
-  weight = 20
-
 [[menu.footer_social]]
   weight = 30
   name = "GitHub"
