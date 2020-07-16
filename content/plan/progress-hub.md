@@ -4,12 +4,16 @@ weight = 60
 title = "Projektfortschritt: Alarmzentrale"
 +++
 
-### Geplant
+### Umgesetzt
 - Alarmeingang
   - &Uuml;berwachen eines Ordners auf neue Dateien (z. B. PDF nach Faxempfang)
-  - Zulieferung durch andere Software per REST-API
 - Verarbeitung
   - Extraktion von Informationen aus PDFs durch Texterkennung (OCR)
+
+### Geplant
+- Alarmeingang
+  - Zulieferung durch andere Software per REST-API
+- Verarbeitung
   - Validieren von Adressen und Koordinaten
   - Kombination verschiedener Alarmeing&auml;nge zu einem Einsatz
 - Ausgabe
