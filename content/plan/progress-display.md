@@ -14,7 +14,8 @@ title = "Projektfortschritt: Alarmanzeige"
   - Titel, Stichwort, Ortsangabe, Freitext der Leitstelle, verstrichene Zeit
   - Automatische R&uuml;ckkehr in den Ruhemodus nach vorgegebener Zeit
 - Verwaltungsoberfl&auml;che zur Konfiguration der Displays und Verwaltung der Inhalte
-- REST-API
+- Benutzeraccounts und API-Keys
+- REST-API inkl. Authentifizierung
 
 ### Geplant
 - Ruhemodus
@@ -23,7 +24,6 @@ title = "Projektfortschritt: Alarmanzeige"
   - Karte vom Zielort
   - Anzeige von Hydranten bei Brandeins&auml;tzen
   - Alarmierte Fahrzeuge/Einheiten
-- Authentifizierung f&uuml;r REST-API
 
 ### F&uuml;r die Zukunft
 - Ruhemodus
