@@ -7,4 +7,4 @@ weight = 30
   url = "https://www.bmbf.de/"
 +++
 
-Die Fördermittel werden durch das BMBF unter dem Förderkennzeichen 01|S19S30 bereitgestellt.
+Die Fördermittel werden durch das BMBF unter dem Förderkennzeichen 01IS19S30 bereitgestellt.
