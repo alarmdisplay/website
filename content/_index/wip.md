@@ -21,4 +21,4 @@ align = "right"
 
 Noch nicht ganz. Dieses Projekt befindet sich gerade im Aufbau und wird erst im Laufe des Jahres 2020 einsatzbereit sein.
 Wir sind aber immer auf der Suche nach Menschen, die sich einbringen wollen und schon mal vorab testen.
-Eine [Beta-Version](/beta) erscheint schon sehr bald.
+Dafür ist eine [Beta-Version](/beta) erschienen.

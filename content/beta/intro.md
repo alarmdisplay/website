@@ -8,9 +8,11 @@ Um sicherzustellen, dass alles reibungslos funktioniert, muss viel getestet werd
 Dafür suchen wir immer Freiwillige, die bei sich ein Testsystem aufbauen wollen.
 In der aktuellen Phase wird es sowohl optisch als auch funktionell noch ein paar ungeschliffene Ecken geben, ein gewisser Wille zum Basteln (im technischen Sinne) könnte erforderlich sein.
 
-**Die erste gemeinsame Beta-Version von Alarmzentrale und Alarmanzeige erscheint am Mittwoch, 26. August 2020.**
+**Die erste gemeinsame Beta-Version von Alarmzentrale und Alarmanzeige ist da!**
 
-Die _Alarmzentrale beta 1_ wird folgende Features haben:
+Die [Dokumentation](https://docs.alarmdisplay.org/) wurde entsprechend aktualisiert und unterstützt euch bei der Installation.
+
+Die _Alarmzentrale beta 1_ hat folgende Features:
 
 * Überwachung von Ordnern auf neue (Alarmfax-) PDF-Dateien
 * Auslesen dieser PDF-Dateien *
@@ -21,7 +23,7 @@ Die _Alarmzentrale beta 1_ wird folgende Features haben:
 
 *: Derzeit wird nur das Alarmfax der ILS Augsburg unterstützt, weitere benötigte Formate [bitte melden](https://community.alarmdisplay.org/c/funktionalitaet/alarmzentrale/9)
 
-Die _Alarmanzeige beta 2_ wird folgende Features haben:
+Die _Alarmanzeige beta 2_ hat folgende Features:
 
 * Schneller Onboarding-Prozess von neuen Displays
 * Drag-and-drop-Konfiguration von Anzeige-Layouts
