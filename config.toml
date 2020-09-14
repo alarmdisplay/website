@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://alarmdisplay.org/"
 languageCode = "de-de"
 defaultContentLanguage = "de"
 title = "Projekt Alarmdisplay"
