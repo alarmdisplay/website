@@ -7,4 +7,4 @@ weight = 10
   url = "https://prototypefund.de/"
 +++
 
-Von März bis August 2020 sind wir Teil der [7.&nbsp;Runde](https://prototypefund.de/projects/round-7/) des Prototype Fund.
+Von März bis August 2020 waren wir Teil der [7.&nbsp;Runde](https://prototypefund.de/projects/round-7/) des Prototype Fund.
