@@ -6,7 +6,7 @@ title = "Projekt Alarmdisplay"
 theme = "syna"
 
 enableGitInfo = true
-version = "0.17.3"
+version = "0.17.4"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 # Google Analytics tracking
