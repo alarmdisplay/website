@@ -9,7 +9,6 @@ sticky = true
 
 # Branding options
 [asset]
-  image = "logo.svg"
   text = "Projekt Alarmdisplay"
 
 [repo_button]
