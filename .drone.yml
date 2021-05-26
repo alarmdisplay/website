@@ -11,6 +11,7 @@ steps:
     image: plugins/hugo
     environment:
       PLUGIN_HUGO_VERSION: 0.83.1
+      PLUGIN_EXTENDED: true
       PLUGIN_VALIDATE: true
   - name: deploy
     image: cschlosser/drone-ftps
