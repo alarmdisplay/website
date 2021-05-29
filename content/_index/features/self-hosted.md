@@ -6,4 +6,4 @@ weight = 20
   icon = "fas fa-server"
 +++
 
-Vertrauen ist gut, selbst betreiben ist besser. Wir geben euch die Werkzeuge dafür an die Hand.
+Wir geben euch die Werkzeuge an die Hand, das komplette System vor Ort zu betreiben.
