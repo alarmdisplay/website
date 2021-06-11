@@ -1,7 +1,7 @@
 +++
 fragment = "content"
 weight = 55
-title = "Projektfortschritt: Alarmanzeige"
+title = "Projektfortschritt: Anzeige"
 +++
 
 ### Umgesetzt

@@ -1,7 +1,7 @@
 +++
 fragment = "content"
 weight = 60
-title = "Projektfortschritt: Alarmzentrale"
+title = "Projektfortschritt: Zentrale"
 +++
 
 ### Umgesetzt
@@ -13,7 +13,7 @@ title = "Projektfortschritt: Alarmzentrale"
   - Validieren von Adressen
   - Kombination verschiedener Alarmeing&auml;nge zu einem Einsatz
 - Ausgabe
-  - Weiterleitung an die Alarmanzeige
+  - Weiterleitung an die Anzeige
 - Benutzeraccounts und API-Keys
 - REST-API inkl. Authentifizierung
 
