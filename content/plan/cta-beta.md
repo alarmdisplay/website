@@ -14,4 +14,4 @@ align = "right"
   color = "primary"
 +++
 
-Die Software ist zwar noch nicht ganz bereit für den täglichen Gebrauch, wir suchen aber immer Freiwillige, die schon mal vorab testen.
+Die Software ist zwar noch nicht komplett rund, wir suchen aber immer Freiwillige, die schon mal vorab testen.
