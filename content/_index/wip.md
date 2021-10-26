@@ -14,5 +14,5 @@ align = "right"
   color = "primary"
 +++
 
-Noch nicht ganz. Dieses Projekt befindet sich gerade im Aufbau und ist noch nicht für den täglichen Gebrauch in kritischen Umgebungen geeignet.
-Wir sind aber immer auf der Suche nach Menschen, die sich einbringen wollen und schon mal vorab testen.
+Das Projekt befindet sich noch in der Beta-Phase und es können sich bis zur Version 1.0 immer wieder Dinge ändern.
+Ihr könnt das System aber gerne schon einmal testen.
