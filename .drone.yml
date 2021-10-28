@@ -10,7 +10,7 @@ steps:
   - name: build
     image: plugins/hugo
     environment:
-      PLUGIN_HUGO_VERSION: 0.83.1
+      PLUGIN_HUGO_VERSION: 0.76.5
       PLUGIN_EXTENDED: true
       PLUGIN_VALIDATE: true
   - name: deploy
