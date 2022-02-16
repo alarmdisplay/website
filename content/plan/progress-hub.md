@@ -6,11 +6,12 @@ title = "Projektfortschritt: Zentrale"
 
 ### Umgesetzt
 - Alarmeingang
-  - &Uuml;berwachen eines Ordners auf neue PDF-Dateien (z. B. Alarmfax)
+  - &Uuml;berwachen von Ordnern auf neue PDF-Dateien (z. B. Alarmfax)
   - Ausdruck der gefundenen Datei
   - &Uuml;berwachen einer seriellen Schnittstelle auf Alarmtexte (z. B. von einem DME)
   - Zulieferung durch eigene Software per REST-API (5-Tonfolgen oder ganze Eins&auml;tze)
 - Verarbeitung
+  - Auslesen von in PDF-Dateien eingebetteten Texten
   - Extraktion von Informationen aus PDFs durch Texterkennung (OCR)
   - Validieren von Adressen (experimentell)
   - Kombination verschiedener Alarmeing&auml;nge zu einem Einsatz
