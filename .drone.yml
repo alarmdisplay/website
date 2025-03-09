@@ -31,18 +31,6 @@ steps:
       event:
         exclude:
           - pull_request
-  - name: slack
-    image: plugins/slack
-    settings:
-      webhook:
-        from_secret: slack_hook
-    when:
-      status:
-        - failure
-        - success
-      event:
-        exclude:
-          - pull_request
 
 trigger:
   branch:
@@ -50,6 +38,6 @@ trigger:
       - main
 ---
 kind: signature
-hmac: dcf84fcfa5a66cb6df1c91d299495b81cb23e6bc8a80bace25e8bb1240a49a5d
+hmac: d5142fff620c36599a73e6ae01a593e191545a1b8ac734a753fc332600237d9b
 
 ...
