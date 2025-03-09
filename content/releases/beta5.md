@@ -1,6 +1,6 @@
 +++
 fragment = "content"
-date = "2025-03-09T17:13:00+01:00"
+date = "2025-03-09T22:00:00+01:00"
 weight = 40
 
 title = "Beta 5"
@@ -31,7 +31,7 @@ Zudem wurden folgende Dinge in der Console geändert:
 
 Das Docker-Image basiert jetzt auf Debian Bookworm statt Ubuntu 20.04.
 
-**Für Breaking Changes bitte den neuen Upgrade Guide beachten.**
+**Für Breaking Changes bitte den neuen [Upgrade Guide](https://docs.alarmdisplay.org/de/Zentrale/Upgrade_Guide.html) beachten.**
 
 ### Anzeige
 
@@ -50,4 +50,4 @@ Zudem wurden folgende Dinge in der Console geändert:
 
 * Bekanntmachungen können optional mit einem Start- und Enddatum versehen werden
 
-**Für Breaking Changes bitte den neuen Upgrade Guide beachten.**
+**Für Breaking Changes bitte den neuen [Upgrade Guide](https://docs.alarmdisplay.org/de/Anzeige/Upgrade_Guide.html) beachten.**
