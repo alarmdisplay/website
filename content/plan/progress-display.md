@@ -10,6 +10,8 @@ title = "Projektfortschritt: Anzeige"
   - Unwetterkarten des DWD
   - Ank&uuml;ndigungen
   - Alarmhinweis, solange auf Daten gewartet wird
+  - Bild aus URL
+  - Termine aus ics-Feed
 - Layoutsystem zur Platzierung von Komponenten
 - Alarmansicht
   - Titel, Stichwort, Ortsangabe, Freitext der Leitstelle, verstrichene Zeit
@@ -21,12 +23,11 @@ title = "Projektfortschritt: Anzeige"
 - REST-API inkl. Authentifizierung
 
 ### Demnächst
-- Termine im Ruhemodus
+- Wetterdaten des DWD (via [Bright Sky](https://brightsky.dev/))
 - E-Mail-Versand f&uuml;r Nutzerverwaltung und bei Problemen
 
 ### F&uuml;r die Zukunft
 - Ruhemodus
-  - Wetterdaten des DWD (via [Bright Sky](https://brightsky.dev/))
   - Unwetterwarnungen auf Gemeindeebene in Textform
   - Hochwasserpegel
   - Fahrzeugstatus
